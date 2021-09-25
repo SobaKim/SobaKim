@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SobaKim
-- 👀 I’m interested in playing piano and violin
+- 👀 I’m interested in deep learning
 - 🌱 I’m currently learning Human factors for medical device
 - 💞️ I’m beginer, please teach me
 
